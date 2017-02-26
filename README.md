@@ -11,8 +11,11 @@ Source Files:
 To Run on Command Line:
 
 1.)  javac -d . Boy.java
+
 2.)  javac -d . Girl.java
+
 3.)  javac -d . main.java
+
 4.)  java q1.main
 
 
