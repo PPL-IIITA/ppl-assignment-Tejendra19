@@ -10,13 +10,13 @@ ppl-assignment-Tejendra19 created by GitHub Classroom
         
 #To Run on Command Line:
 
-1.)  javac -d . Boy.java
+javac -d . Boy.java
 
-2.)  javac -d . Girl.java
+javac -d . Girl.java
 
-3.)  javac -d . main.java
+javac -d . main.java
 
-4.)  java q1.main
+java q1.main
 
 
 
