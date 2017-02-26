@@ -2,13 +2,13 @@
 ppl-assignment-Tejendra19 created by GitHub Classroom
 
 
-Developed Using:
-        Neatbeans IDE 8.0 (Windows 10)
+# Developed Using:
+        NetBeans IDE 8.0 (Windows 10)
        
-Source Files:
+#Source Files can be downloaded from:
         Q1/src/q1
         
-To Run on Command Line:
+#To Run on Command Line:
 
 1.)  javac -d . Boy.java
 
@@ -20,13 +20,8 @@ To Run on Command Line:
 
 
 
-
-
-
-
-
-Developer:
+#Developer:
         TEJENDRA KUMAR (RIT2015019)
         
-Language Used:
-        JAVA
+#Language Used:
+        JAVA 8
